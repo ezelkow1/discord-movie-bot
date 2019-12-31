@@ -6,3 +6,4 @@ temporary thoughts:
  
  Still need to maintain aspect, omx works for rpi based streaming for hardware accel
  
+aspect: -vf scale=320:-1, set width, height is autocalculated
